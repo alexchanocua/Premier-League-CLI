@@ -1,0 +1,14 @@
+{
+  "name": "midterm-api",
+  "version": "1.0.0",
+  "description": "module to interact with miderterm-cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alejandro Chanocua",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.26.1"
+  }
+}

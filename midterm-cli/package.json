@@ -1,0 +1,16 @@
+{
+  "name": "midterm-cli",
+  "version": "1.0.0",
+  "description": "View stats of players in the English Premier League",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alejandro Chanocua",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^8.2.1",
+    "midterm-api": "file:../midterm-api",
+    "yargs": "^17.4.0"
+  }
+}
